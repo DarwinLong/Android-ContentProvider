@@ -1,6 +1,5 @@
 ## project ignore file.
 bin/
-#.settings/
 gen/
 
 

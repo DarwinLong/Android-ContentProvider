@@ -1,7 +1,6 @@
 ## project ignore file.
 bin/
-.settings/
+#.settings/
 gen/
-.classpath
-.project
+
 
